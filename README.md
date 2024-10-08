@@ -1,7 +1,5 @@
 # JavaCRUD
 
-Simple JavaServer Pages application
-
 ## Social Media
 
 [![YouTube](https://img.shields.io/badge/YouTube-FF2300?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@DanielDH179)
@@ -11,4 +9,4 @@ Simple JavaServer Pages application
 
 ## Author
 
-Daniel Dmitrienco Herrera, student of Web Application Development Higher Level Training Cycle, at IES Sotero Hernández.
+Daniel Dmitrienco Herrera, student of *Web Application Development* Higher Level Training Cycle, at IES Sotero Hernández.
